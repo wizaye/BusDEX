@@ -15,6 +15,7 @@
     "@vercel/analytics": "^0.1.11",
     "framer-motion": "^8.2.4",
     "next": "^13.4.4",
+    "next-auth": "^4.23.1",
     "react": "^18.2.0",
     "react-compare-slider": "^2.2.0",
     "react-countup": "^6.4.0",
@@ -22,7 +23,8 @@
     "react-uploader": "^3.10.0",
     "react-use-measure": "^2.1.1",
     "request-ip": "^3.3.0",
-    "uploader": "^3.9.0"
+    "uploader": "^3.9.0",
+    "util": "^0.12.5"
   },
   "devDependencies": {
     "@types/node": "18.11.3",

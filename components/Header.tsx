@@ -8,7 +8,7 @@ export default function Header() {
         <Image
           alt="header text"
           src="/busdex.svg"
-          className="sm:w-10 sm:h-10 w-9 h-9"
+          className="sm:w-8 sm:h-8 w-9 h-9"
           width={24}
           height={24}
         />

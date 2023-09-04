@@ -31,7 +31,7 @@ export default function Footer() {
         <Link
           href="https://instagram.com/wizaye.x"
           className="group"
-          aria-label="TaxPal on Instagram"
+          aria-label="Wizaye on Instagram"
         >
           <svg 
           aria-hidden="true"
@@ -43,7 +43,7 @@ export default function Footer() {
         <Link
           href="https://github.com/wizaye"
           className="group"
-          aria-label="TaxPal on GitHub"
+          aria-label="Wizaye on GitHub"
         >
           <svg
             aria-hidden="true"
